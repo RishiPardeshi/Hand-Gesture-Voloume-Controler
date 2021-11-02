@@ -26,12 +26,12 @@ __Thats it now simply run main.py and it will detect your hand__
 
 # How this works ?
 __When you run the code it will first detect you hands and tells that which hand it is left or right as shown in image__<br><br>
-![DetectedHand](https://user-images.githubusercontent.com/93481628/139847871-ebb90cd6-ce53-4119-8995-184f9970c2cd.png)<br><br>
+<img src = 'https://user-images.githubusercontent.com/93481628/139847871-ebb90cd6-ce53-4119-8995-184f9970c2cd.png' width='430px' height='320px'></img><br><br>
 
 __Then if the index finger and thumb are up then it will draw line from index finger to thumb__<br><br>
-![LineDrawn](https://user-images.githubusercontent.com/93481628/139848275-aae59e74-4b17-463d-b109-d9942130e8d4.png)<br>
+<img src = 'https://user-images.githubusercontent.com/93481628/139848275-aae59e74-4b17-463d-b109-d9942130e8d4.png' width='430px' height='320px'></img><br><br>
 
 __And after all this process it will control your system voloume using hand gestures__<br><br>
-![LineDrawn](https://user-images.githubusercontent.com/93481628/139848275-aae59e74-4b17-463d-b109-d9942130e8d4.png)
+<img src = 'https://user-images.githubusercontent.com/93481628/139848275-aae59e74-4b17-463d-b109-d9942130e8d4.png' width='430px' height='320px'></img><br><br>
 
-(https://user-images.githubusercontent.com/93481628/139850652-62a8e7cb-ed8a-4159-b044-f4b382e54f23.mp4)
+__Checkout this [video](https://user-images.githubusercontent.com/93481628/139850652-62a8e7cb-ed8a-4159-b044-f4b382e54f23.mp4) to view final product__<br>
