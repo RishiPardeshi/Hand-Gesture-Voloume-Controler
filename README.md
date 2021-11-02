@@ -32,6 +32,5 @@ __Then if the index finger and thumb are up then it will draw line from index fi
 <img src = 'https://user-images.githubusercontent.com/93481628/139848275-aae59e74-4b17-463d-b109-d9942130e8d4.png' width='430px' height='320px'></img><br><br>
 
 __And after all this process it will control your system voloume using hand gestures__<br><br>
-<img src = 'https://user-images.githubusercontent.com/93481628/139848275-aae59e74-4b17-463d-b109-d9942130e8d4.png' width='430px' height='320px'></img><br><br>
 
 __Checkout this [video](https://user-images.githubusercontent.com/93481628/139850652-62a8e7cb-ed8a-4159-b044-f4b382e54f23.mp4) to view final product__<br>
